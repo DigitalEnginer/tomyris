@@ -1,0 +1,14 @@
+.env
+
+.venv/
+__pycache__/
+*.pyc
+
+processed_orders.txt
+.orders_uploaded
+
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/build/
+.DS_Store
